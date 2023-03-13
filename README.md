@@ -1,0 +1,1 @@
+This is a recipe project to showcase basic HTML knowledge such as creating paragraphs, headings, ordered and unordered lists, links and images.
